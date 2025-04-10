@@ -1,1 +1,1 @@
-print ("First GitHub Activity")
+print("First GitHub Activity")
